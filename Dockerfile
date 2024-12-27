@@ -1,2 +1,2 @@
-FROM ubantu/apache2
+FROM ubuntu/apache2
 COPY . /var/www/hmtl/
